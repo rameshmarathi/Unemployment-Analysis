@@ -56,11 +56,16 @@ Bar Plot: Region-wise unemployment rate
 
 Interactive plots generated:
 
-📉 Unemployment trend over time
-<img width="1200" height="600" alt="Figure_2" src="https://github.com/user-attachments/assets/8744d0bf-6e5f-47bc-9ae8-c7b4d5f9bde1" />
+📉 Unemployment trend over time:
 
-📊 Rate distribution
-<img width="800" height="500" alt="Figure_3" src="https://github.com/user-attachments/assets/50b2d4c0-bab0-4701-be80-3d47dca93256" />
+  <img width="800" height="300" alt="Figure_2" src="https://github.com/user-attachments/assets/8744d0bf-6e5f-47bc-9ae8-c7b4d5f9bde1" />
+  
 
-🗺️ Regional comparison
-<img width="1500" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/1a86a63c-c621-42c2-a982-b0a7a7017aed" />
+📊 Rate distribution:
+
+   <img width="400" height="300" alt="Figure_3" src="https://github.com/user-attachments/assets/50b2d4c0-bab0-4701-be80-3d47dca93256" />
+   
+
+🗺️ Regional comparison:
+
+  <img width="1100" height="400" alt="Figure_1" src="https://github.com/user-attachments/assets/1a86a63c-c621-42c2-a982-b0a7a7017aed" />
